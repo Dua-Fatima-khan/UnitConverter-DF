@@ -109,3 +109,5 @@ if st.button("Convert ✨"):
     with st.spinner("Converting... 💪"):  
         time.sleep(1)
         st.success("Converted value: {:.4f} {} 🚀".format(result, to_unit))
+st.markdown("---")
+st.write("©Cpythight All Rights Reserved 🔒✨ Made by Dua Fatima 2025 💻🎨")
